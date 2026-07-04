@@ -1,16 +1,31 @@
-## Hi there 👋
+🐗 欢迎来到 野猪凌梦 的小窝！(๑•̀ㅂ•́)و✧
 
-<!--
-**h-129/h-129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+哈喽呀！我是 野猪凌梦 ✨，一只刚刚踏入代码世界的新手小萌新~
 
-Here are some ideas to get you started:
+虽然我现在还是个刚入门的小小程序员，偶尔会被报错信息追着满街跑 💦，但我目前正处于疯狂吸收知识的快速成长期哦！每天都在努力打怪升级，梦想着有一天能成为独当一面的技术大牛！🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 小野猪的成长日记 (About Me)
+
+🔭 目前状态：在新手村努力接任务，正在充满好奇地探索奇妙的编程世界！
+
+🌱 疯狂生长：每天都在努力点亮新的技能树，今天也要比昨天的自己更强一点点！💪
+
+🎯 当前目标：少写点 Bug，保卫发际线，努力完成一个让自己超级开心的小项目！
+
+💬 欢迎投喂：如果有大佬路过，求带飞、求指点！当然，交流摸鱼心得也非常欢迎哦~ 🐟
+
+✨ 座右铭：“野猪冲撞，Bug 散退！” 🐗💨
+
+🛠️ 正在积攒的魔法碎片 (My Skill Tree)
+
+（作为一个努力成长的萌新，我的武器库正在慢慢丰富中...）
+
+📊 新手村打怪记录 (GitHub Stats)
+
+💌 捕获这只野猪 (Contact Me)
+
+📧 投递信箱：[hxsy129@gmail.com]
+
+📝 我的小本本：[如果有博客或者学习笔记链接可以填这里，没有的话整行删掉就好啦]
+
+感谢你来到我的主页，祝你今天代码一次过，永不脱发！🌸
